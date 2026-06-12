@@ -1,5 +1,5 @@
 import { lazy } from 'react';
-import { createBrowserRouter, createHashRouter, Navigate } from 'react-router';
+import { createHashRouter, Navigate } from 'react-router';
 
 import { AdminLayout } from '@/admin/layouts/AdminLayout';
 import { AdminPage } from '@/admin/pages/AdminPage';
